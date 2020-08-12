@@ -40,7 +40,8 @@
 <br />
 
 
-
+---
+<img align="left" alt="Saad's git hub stats" src="https://github-readme-stats.vercel.app/api?username=saadarroub&show_icons=true&hide-border=true"/>
 
 
 [website]: https://codeSTACKr.com
