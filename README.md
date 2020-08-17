@@ -30,8 +30,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" />
-<img align="left" alt="Laravel" width="26px" src="http://allvectorlogo.com/img/2019/07/laravel-logo-vector.png" />
+<img align="left" alt="PHP" width="26px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
+<img align="left" alt="Laravel" width="26px" src="https://seeklogo.com/images/L/laravel-logo-9B01588B1F-seeklogo.com.png" />
 
 <br />
 <br />
