@@ -1,7 +1,7 @@
 ### Hi there, I'm Saad - aka [shinichi][website] 👋
 
 ## I'm a Developer !
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [Salle_management_system][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play football 
@@ -9,8 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/39/39554.png" />][xing]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -44,3 +43,4 @@
 [website]: https://saadarroub.com
 [instagram]: https://www.instagram.com/ssa3d_/
 [linkedin]: https://www.linkedin.com/in/saad-arroub-173a75191/
+[xing]: https://www.xing.com/profile/SAAD_ARROUB/cv
