@@ -1,46 +1,37 @@
-### Hi there, I'm Saad - aka [shinichi][website] 👋
+### 🌟 Welcome to My GitHub Galaxy! 🌟
 
-## I'm a Developer !
-- 🔭 I’m currently working on a [Salle_management_system][website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play football 
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/39/39554.png" />][xing]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="VS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
-<img align="left" alt="Laravel" width="26px" src="https://seeklogo.com/images/L/laravel-logo-9B01588B1F-seeklogo.com.png" />
-
-<br />
-<br />
-
+👋 Hello there! I'm SAAD, a passionate Computer Science student with an insatiable curiosity for coding and a love for innovation. Dive into my repositories and join me on a journey through the fascinating world of technology!
 
 ---
-<img align="left" alt="Saad's git hub stats" src="https://github-readme-stats.vercel.app/api?username=saadarroub&show_icons=true&hide-border=true"/>
+
+### 🚀 About Me
+
+- 📚 **Education**: Pursuing a Bachelor’s degree in Computer Science at [Your University].
+- 💻 **Tech Enthusiast**: Obsessed with exploring new technologies, programming languages, and development tools.
+- 🌐 **Developer by Heart**: Creating, breaking, and fixing code to solve real-world problems and build cool stuff.
+
+---
+
+### 🔧 Skills & Technologies
+
+- **Languages**: Java, PHP, JavaScript, HTML/CSS
+- **Frameworks**: Laravel, Spring Boot
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools**: Git, Docker, VS Code
+
+---
+
+### 🌱 What I'm Working On
+
+- **Open Source Projects**: Contributing to projects that make a difference.
+- **Web Development**: Building responsive and dynamic web applications.
+- **Machine Learning**: Diving into AI and machine learning algorithms.
+
+---
 
 
-[website]: https://saadarroub.com
-[instagram]: https://www.instagram.com/ssa3d_/
-[linkedin]: https://www.linkedin.com/in/saad-arroub-173a75191/
-[xing]: https://www.xing.com/profile/SAAD_ARROUB/cv
+### 🎨 Fun Fact
+
+When I’m not coding, you can find me exploring the latest tech trends, playing video games, or sketching some random doodles. Life is all about balancing creativity and logic!
+
+---
