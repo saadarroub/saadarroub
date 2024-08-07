@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 📚 **Education**: Pursuing a Bachelor’s degree in Computer Science at [Your University].
+- 📚 **Education**: Pursuing a Bachelor’s degree in Computer Science at WHS.
 - 💻 **Tech Enthusiast**: Obsessed with exploring new technologies, programming languages, and development tools.
 - 🌐 **Developer by Heart**: Creating, breaking, and fixing code to solve real-world problems and build cool stuff.
 
