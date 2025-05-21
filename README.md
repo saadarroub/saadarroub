@@ -14,8 +14,8 @@
 
 ### 🔧 Skills & Technologies
 
-- **Languages**: Java, PHP, JavaScript, HTML/CSS
-- **Frameworks**: Laravel, Spring Boot
+- **Languages**: Java, PHP, JavaScript, Python
+- **Frameworks**: Laravel, Spring Boot, React
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Tools**: Git, Docker, VS Code
 
